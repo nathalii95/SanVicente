@@ -1,0 +1,77 @@
+
+
+
+.cl{
+
+  text-align: center;
+
+  margin-top: 100px;
+}
+
+.uno{
+
+
+  width: 100%;
+  height: 100%;
+
+   border-left: 6px solid #106eea;
+  background-color: rgba(211,211,211,0.3);
+filter: drop-shadow(0 2px 5px rgba(255,255,255, 0.5)); 
+}
+
+
+.dos{
+
+ border-left: 6px solid #106eea;
+  background-color: rgba(211,211,211,0.3);
+  filter: drop-shadow(0 2px 5px rgba(255,255,255, 0.5)); 
+  width: 100%;
+  height: 100%;
+
+}
+
+
+.uno:hover{
+
+
+  background-color: #9bc9ff;
+
+}
+
+
+.dos:hover{
+
+
+  background-color: #9bc9ff;
+
+}
+
+img {
+filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.2)); 
+width: 150px;
+}
+
+
+
+h3{
+
+ font-weight: bold;
+
+}
+
+h3:hover{
+color: white;
+
+}
+
+
+button {
+
+	filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.4)); 
+}
+
+button:hover {
+
+	width: 180px;
+
+}
